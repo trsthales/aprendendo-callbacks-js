@@ -226,11 +226,9 @@ Após dominar callbacks, estude:
 - [ ] Entendo o que é um callback
 - [ ] Sei diferenciar callbacks síncronos e assíncronos
 - [ ] Conheço os métodos de array com callbacks
-- [ ] Sei identificar callback hell
 - [ ] Conheço as boas práticas
 - [ ] Entendo error-first callback pattern
 - [ ] Pratiquei os exercícios
-- [ ] Sei quando usar callbacks vs promises
 
 
 ## 🤝 Dicas Finais
