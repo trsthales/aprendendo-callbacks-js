@@ -21,7 +21,7 @@ function cumprimentar(nome, callback) {
 
 // Passando uma função como callback
 cumprimentar("João", function() {
-    console.log("Callback executado!\n");
+    console.log("Callback executado!");
 });
 
 // ============================================
